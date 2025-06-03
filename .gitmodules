@@ -1,4 +1,1 @@
 
-[submodule "api-azure"]
-	path = api-azure
-	url = https://github.com/MirellaFran/api-azure.git
